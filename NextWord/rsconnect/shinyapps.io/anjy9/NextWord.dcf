@@ -1,0 +1,13 @@
+name: NextWord
+title: NextWord
+username:
+account: anjy9
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 251867
+bundleId: 1152245
+url: https://anjy9.shinyapps.io/NextWord/
+when: 1514384737.34951
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: combinedRaw.RData|desktop.ini|headers.png|ngram2.RData|ngram3.RData|ngram4.RData|ngram5.RData
