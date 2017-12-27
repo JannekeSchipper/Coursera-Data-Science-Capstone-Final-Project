@@ -14,7 +14,7 @@ The data was cleaned using the tm, quanteda packages. These packages has various
 The final project was concluded with one Shiny application and a Pitch using R-Presentation.
 
 ### Links to the app and presentation.
-* The NextWord Prediction App :[NextWprd](https://anjy9.shinyapps.io/NextWord/)
+* The NextWord Prediction App :[NextWord](https://anjy9.shinyapps.io/NextWord/)
 
 * [This pitch- NextWord](http://rpubs.com/joseantonio/capstone-data-science)
 
